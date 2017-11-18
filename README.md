@@ -1,0 +1,2 @@
+# MinecraftVanillaServer
+Minecraft vanilla server
